@@ -1,11 +1,6 @@
 <h1 align="center">Hi there, I'm Duryodhan Rao Indugu! 👋</h1>
 <table>
   <tr>
-    <td width="200">
-      <a href="https://github.com/iduryodhanrao">
-        <img src="https://avatars.githubusercontent.com/u/63735933?v=4" width="190" style="border-radius:50%" />
-      </a>
-    </td>
     <td>
       <h3>🚀 About Me</h3>
       <ul>
